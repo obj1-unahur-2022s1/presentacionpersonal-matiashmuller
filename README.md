@@ -13,4 +13,4 @@ y, como me fue gustando e interesando cada vez más, en 2021 comencé la Tecnica
 estudiando y completar la Licenciatura en Informática.
 Actualmente soy colaborador en el equipo docente de la materia Introducción a la Programación, es un placer ayudar a un compañero siempre que se pueda!
 Paralelamente estoy cursando la segunda etapa del plan Argentina Programa y buscando aprender constantemente, con muchas ansias de comenzar a trabajar en este
-mundo (Pst! Dense una vuelta por mi [LinkedIn])(https://www.linkedin.com/in/matias-muller-)
+mundo (Pst! Dense una vuelta por mi [LinkedIn](https://www.linkedin.com/in/matias-muller-))
