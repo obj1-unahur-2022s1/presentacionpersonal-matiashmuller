@@ -6,7 +6,7 @@
 
 # Presentación
 ## Matías Müller
-![Intentando sonreír](https://github.com/obj1-unahur-2022s1/presentacionpersonal-matiashmuller/blob/main/Matias.jpg)
+![Intentando sonreír](https://github.com/obj1-unahur-2022s1/presentacionpersonal-matiashmuller/blob/main/MatiasMuller.jpg)
 ### Acerca de mí
 Soy estudiante de programación desde el 2020. Empecé de forma autodidacta informándome y practicando en sitios como [freeCodeCamp](https://www.freecodecamp.org/)
 y, como me fue gustando e interesando cada vez más, en 2021 comencé la Tecnicatura universitaria en Programación en la UNaHur. Una vez terminada planeo continuar
