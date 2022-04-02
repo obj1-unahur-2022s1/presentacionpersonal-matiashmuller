@@ -1,15 +1,16 @@
-# Presentación de Programación con Objetos I de Matías Müller
+# Programación con Objetos I
+  
 - [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Instituto de Tecnología e Ingeniería 
-- [x] Licenciatura en Informática
-- [x] Pagína Web de [Cursada](https://obj1-unahur.github.io/)
+- [x] Tecnicatura universitaria en Programación
 
-## Este cuatrimestre 
-* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/19FZB2t00NWQ7dwygWRktajAV2mjbeTOqePBJ9XRWacw/edit?usp=sharing). 
-* 2 Comisiones (C1-Mañana / C2-Noche), pero es la misma materia y utilizamos la misma página.
-* Un docente principal por comisión con clases independientes. 
-* Este cuantrimestre los profesores somos [Gerardo González], **Lucas Spigariol** y **Hernan Coniglio**
-* Vamos a tener distintas alternativas de horarios para consultas y práctica.
-
-## dejamos una reflexión 🤪
-![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
+# Presentación
+## Matías Müller
+![Intentando sonreír](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/Matías.jpg)
+### Acerca de mí
+Soy estudiante de programación desde el 2020. Empecé de forma autodidacta informándome y practicando en sitios como [freeCodeCamp](https://www.freecodecamp.org/)
+y, como me fue gustando e interesando cada vez más, en 2021 comencé la Tecnicatura universitaria en Programación en la UNaHur. Una vez terminada planeo continuar
+estudiando y completar la Licenciatura en Informática.
+Actualmente soy colaborador en el equipo docente de la materia Introducción a la Programación, es un placer ayudar a un compañero siempre que se pueda!
+Paralelamente estoy cursando la segunda etapa del plan Argentina Programa y buscando aprender constantemente, con muchas ansias de comenzar a trabajar en este
+mundo (Pst! Dense una vuelta por mi [LinkedIn](https://www.linkedin.com/in/matias-muller-)
